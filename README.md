@@ -1,2 +1,2 @@
 # cargo-helloworld
-Hello Wolrd Application with Cargo
+Hello World Application with Cargo
